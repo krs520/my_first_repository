@@ -3,11 +3,17 @@
 Kaitlin Slattery - Data Bootcamp Homework 1
 https://github.com/krs520
 1. Describe and explain what each of these expressions produces in basic Python:
+
 2+5
+
 Sum of 2 and 5
+
 2 + 5
+
 Sum of 2 and 5
+
 2*5
+
 Mutliplies 2 times 5
 2/5
 2 divided by 5
